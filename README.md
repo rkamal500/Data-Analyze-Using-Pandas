@@ -10,11 +10,11 @@ Analyze sales data to uncover trends, clean messy data, and perform basic data o
 
 ---
 
-##  Features
+##  project description
 
 -  Data extration from CSV  
 -  Data cleaning (missing values, formatting)  
--  Basic analysis (sales by region, category insights, etc.)
+-  Business analysis (sales by region, category insights, etc.)
 
 ---
    
